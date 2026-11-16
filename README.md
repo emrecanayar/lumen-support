@@ -1,6 +1,6 @@
 # Lumen Support
 
-Public support and privacy pages for Lumen for Mac.
+Public support and privacy pages for Lumen Presenter.
 
 - [English support](https://emrecanayar.github.io/lumen-support/support-en.html)
 - [Türkçe destek](https://emrecanayar.github.io/lumen-support/support-tr.html)
